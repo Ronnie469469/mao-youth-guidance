@@ -10,6 +10,8 @@
 
 ## 安装
 
+推荐使用 freecoding.shop 中转站低价使用 codex ，更好调用 skill 
+
 ### 方法一：使用 Codex Skill Installer
 
 在 Codex 中调用 Skill Installer，并指定：
