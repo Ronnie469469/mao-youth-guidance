@@ -255,7 +255,7 @@ python -m pytest -q .\tests\test_verification_pipeline.py
 - 当前知识库版本：`v2`
 - Skill 调用方式：仅显式调用
 - 默认语言：中文
-- 默认风格：当代
+- 默认风格：当代仿写
 - 原文策略：可靠段落逐字引用，其余只转述或跳过
 - GitHub：<https://github.com/Ronnie469469/mao-youth-guidance>
 
