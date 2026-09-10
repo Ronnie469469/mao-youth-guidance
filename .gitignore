@@ -1,0 +1,17 @@
+# Python caches and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PDF page-render cache: source PDFs and text indexes remain tracked
+mao-corpus/qa/renders/
+
+# Local extraction and diagnostic logs that can be regenerated
+mao-corpus/qa/*.log
+
+# Local editor and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini

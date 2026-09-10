@@ -1,0 +1,333 @@
+{
+  "schema": "mao-youth-guidance/extraction-report.v1",
+  "items": [
+    {
+      "pdf_id": "pdf-0001",
+      "filename": "01.pdf",
+      "status": "text_extracted",
+      "language": "ja",
+      "pages_with_text": 166,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0002",
+      "filename": "01210801.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0003",
+      "filename": "01210802.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0004",
+      "filename": "01210803.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0005",
+      "filename": "01210804.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0006",
+      "filename": "01210806.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0007",
+      "filename": "01210809.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0008",
+      "filename": "02.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 256,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0009",
+      "filename": "03.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 341,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0010",
+      "filename": "04.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 382,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0011",
+      "filename": "05.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 320,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0012",
+      "filename": "06.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 349,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0013",
+      "filename": "07.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 315,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0014",
+      "filename": "08.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 340,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0015",
+      "filename": "09.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 323,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0016",
+      "filename": "1-01.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 257,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0017",
+      "filename": "1-02.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 290,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0018",
+      "filename": "1-03.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 291,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0019",
+      "filename": "1-04.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 283,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0020",
+      "filename": "1-05.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 304,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0021",
+      "filename": "1-06.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 230,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0022",
+      "filename": "1-07.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 249,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0023",
+      "filename": "1-08.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 235,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0024",
+      "filename": "1-09.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 336,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0025",
+      "filename": "10.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 332,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0026",
+      "filename": "20200712e.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 576,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0027",
+      "filename": "20201007f.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 525,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0028",
+      "filename": "20201007g.pdf",
+      "status": "text_extracted",
+      "language": "zh",
+      "pages_with_text": 481,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0029",
+      "filename": "c01.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 827,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0030",
+      "filename": "c02.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 713,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0031",
+      "filename": "c03.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 734,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0032",
+      "filename": "c04.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 678,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0033",
+      "filename": "c05 (1).pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 605,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0034",
+      "filename": "c06.pdf",
+      "status": "text_extracted",
+      "language": "en",
+      "pages_with_text": 702,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0035",
+      "filename": "c07 (1).pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 702,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0036",
+      "filename": "c08 (1).pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 671,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0037",
+      "filename": "c09.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 651,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0038",
+      "filename": "c10.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 494,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0039",
+      "filename": "c11.pdf",
+      "status": "text_extracted",
+      "language": "other",
+      "pages_with_text": 525,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0040",
+      "filename": "c12.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    },
+    {
+      "pdf_id": "pdf-0041",
+      "filename": "c13.pdf",
+      "status": "ocr_required",
+      "language": "unknown",
+      "pages_with_text": 0,
+      "error": null
+    }
+  ]
+}

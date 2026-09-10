@@ -1,0 +1,89 @@
+{
+  "schema": "mao-youth-guidance/concept-relations.v2",
+  "relations": [
+    {
+      "from": "thought-001",
+      "type": "supports",
+      "to": "thought-002",
+      "status": "draft"
+    },
+    {
+      "from": "thought-002",
+      "type": "supports",
+      "to": "thought-003",
+      "status": "draft"
+    },
+    {
+      "from": "thought-003",
+      "type": "applies_to",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-004",
+      "type": "supports",
+      "to": "thought-005",
+      "status": "draft"
+    },
+    {
+      "from": "thought-006",
+      "type": "depends_on",
+      "to": "thought-001",
+      "status": "draft"
+    },
+    {
+      "from": "thought-008",
+      "type": "depends_on",
+      "to": "thought-002",
+      "status": "draft"
+    },
+    {
+      "from": "thought-009",
+      "type": "supports",
+      "to": "thought-005",
+      "status": "draft"
+    },
+    {
+      "from": "thought-011",
+      "type": "depends_on",
+      "to": "thought-007",
+      "status": "draft"
+    },
+    {
+      "from": "thought-012",
+      "type": "context_bound_by",
+      "to": "thought-014",
+      "status": "draft"
+    },
+    {
+      "from": "thought-013",
+      "type": "applies_to",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-015",
+      "type": "depends_on",
+      "to": "thought-014",
+      "status": "draft"
+    },
+    {
+      "from": "thought-016",
+      "type": "supports",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-017",
+      "type": "applies_to",
+      "to": "thought-018",
+      "status": "draft"
+    },
+    {
+      "from": "thought-018",
+      "type": "depends_on",
+      "to": "thought-001",
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "schema": "mao-youth-guidance/thought-cards.v1",
+  "cards": [
+    {
+      "thought_id": "thought-001",
+      "title": "实践与认识",
+      "core_proposition": "认识来源于实践，并要回到实践接受检验；认识是在经验、概括、再实践的反复中发展的。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "实践",
+        "认识",
+        "经验",
+        "检验"
+      ],
+      "themes": [
+        "实践与认识"
+      ],
+      "article_types": [
+        "哲学与认识论"
+      ],
+      "applicable_questions": [
+        "学习",
+        "职业选择",
+        "计划复盘"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "认识来源于实践，并要回到实践接受检验；认识是在经验、概括、再实践的反复中发展的。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0020-p0228-001",
+        "pdf-0027-p0446-001",
+        "pdf-0020-p0231-001",
+        "pdf-0020-p0230-002"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-002",
+      "title": "调查研究",
+      "core_proposition": "判断具体问题以前先取得可靠材料，区分事实、传闻和预设，再形成意见和办法。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "调查",
+        "研究",
+        "实际",
+        "材料"
+      ],
+      "themes": [
+        "调查研究"
+      ],
+      "article_types": [
+        "调查研究",
+        "群众与社会"
+      ],
+      "applicable_questions": [
+        "社会观察",
+        "职业判断",
+        "关系冲突"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "判断具体问题以前先取得可靠材料，区分事实、传闻和预设，再形成意见和办法。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0001-p0110-002",
+        "pdf-0027-p0415-001",
+        "pdf-0013-p0289-001",
+        "pdf-0027-p0421-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-003",
+      "title": "矛盾与主要矛盾",
+      "core_proposition": "具体分析相互联系又相互冲突的因素，在一定阶段抓住最支配行动的主要矛盾，同时看到主次会转化。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "矛盾",
+        "主要矛盾",
+        "次要",
+        "具体分析"
+      ],
+      "themes": [
+        "矛盾与主要矛盾"
+      ],
+      "article_types": [
+        "矛盾分析",
+        "哲学与认识论"
+      ],
+      "applicable_questions": [
+        "决策",
+        "焦虑",
+        "多重压力"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "具体分析相互联系又相互冲突的因素，在一定阶段抓住最支配行动的主要矛盾，同时看到主次会转化。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0020-p0263-001",
+        "pdf-0027-p0104-001",
+        "pdf-0020-p0261-001",
+        "pdf-0027-p0515-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-004",
+      "title": "群众路线",
+      "core_proposition": "从人的真实需要和经验中集中意见，再把形成的办法交回实践检验；不能用抽象口号替代具体生活。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "群众",
+        "人民",
+        "意见",
+        "生活"
+      ],
+      "themes": [
+        "群众路线"
+      ],
+      "article_types": [
+        "群众与社会",
+        "组织与领导"
+      ],
+      "applicable_questions": [
+        "公共治理",
+        "团队协作",
+        "社会参与"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "从人的真实需要和经验中集中意见，再把形成的办法交回实践检验；不能用抽象口号替代具体生活。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0428-001",
+        "pdf-0028-p0126-001",
+        "pdf-0027-p0427-001",
+        "pdf-0015-p0274-002"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-005",
+      "title": "组织与领导",
+      "core_proposition": "领导要把一般号召转化为具体指导，明确责任、反馈和检查，使集体行动能够执行和修正。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "领导",
+        "组织",
+        "具体",
+        "检查"
+      ],
+      "themes": [
+        "组织与领导"
+      ],
+      "article_types": [
+        "组织与领导"
+      ],
+      "applicable_questions": [
+        "团队管理",
+        "学习计划",
+        "公共行动"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "领导要把一般号召转化为具体指导，明确责任、反馈和检查，使集体行动能够执行和修正。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0022-p0152-001",
+        "pdf-0014-p0159-001",
+        "pdf-0010-p0283-001",
+        "pdf-0010-p0279-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-006",
+      "title": "学习与教育",
+      "core_proposition": "学习应围绕真实问题，把阅读、调查、思考和实践结合起来；评价学习要看理解和解决问题的能力。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "学习",
+        "教育",
+        "实际",
+        "知识"
+      ],
+      "themes": [
+        "学习与教育"
+      ],
+      "article_types": [
+        "学习与教育",
+        "哲学与认识论"
+      ],
+      "applicable_questions": [
+        "升学",
+        "自学",
+        "能力成长"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "学习应围绕真实问题，把阅读、调查、思考和实践结合起来；评价学习要看理解和解决问题的能力。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0014-p0074-001",
+        "pdf-0027-p0470-001",
+        "pdf-0027-p0094-001",
+        "pdf-0022-p0077-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-007",
+      "title": "劳动与生产",
+      "core_proposition": "物质生产和劳动条件是理解社会生活的重要基础；评价个人困境不能忽视资源、分工和制度条件。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "劳动",
+        "生产",
+        "经济",
+        "建设"
+      ],
+      "themes": [
+        "劳动与生产"
+      ],
+      "article_types": [
+        "经济与劳动",
+        "群众与社会"
+      ],
+      "applicable_questions": [
+        "就业",
+        "劳动权益",
+        "职业价值"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "物质生产和劳动条件是理解社会生活的重要基础；评价个人困境不能忽视资源、分工和制度条件。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0378-001",
+        "pdf-0010-p0277-001",
+        "pdf-0026-p0342-001",
+        "pdf-0027-p0056-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-008",
+      "title": "文化与表达",
+      "core_proposition": "表达必须有真实内容、明确对象和可理解的语言；反对空话、套话和脱离受众的形式主义。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "文章",
+        "演说",
+        "群众",
+        "语言",
+        "空话"
+      ],
+      "themes": [
+        "文化与表达"
+      ],
+      "article_types": [
+        "文化与文艺",
+        "诗词、杂文与政论"
+      ],
+      "applicable_questions": [
+        "沟通",
+        "写作",
+        "公共表达"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "表达必须有真实内容、明确对象和可理解的语言；反对空话、套话和脱离受众的形式主义。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0014-p0096-001",
+        "pdf-0027-p0088-001",
+        "pdf-0027-p0075-001",
+        "pdf-0027-p0316-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-009",
+      "title": "作风与纪律",
+      "core_proposition": "以事实、责任和可检查的行动纠正主观主义与形式主义；批评的目标应是发现问题和改进工作。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "作风",
+        "批评",
+        "责任",
+        "主观主义",
+        "形式主义"
+      ],
+      "themes": [
+        "作风与纪律"
+      ],
+      "article_types": [
+        "作风与伦理",
+        "组织与领导"
+      ],
+      "applicable_questions": [
+        "复盘",
+        "团队冲突",
+        "自我要求"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "以事实、责任和可检查的行动纠正主观主义与形式主义；批评的目标应是发现问题和改进工作。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0014-p0019-002",
+        "pdf-0027-p0430-001",
+        "pdf-0027-p0103-001",
+        "pdf-0027-p0288-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-010",
+      "title": "个人与集体",
+      "core_proposition": "个人成长发生在社会关系和共同劳动中；集体目标不能抹去个人尊严、具体处境和合理边界。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "个人",
+        "集体",
+        "团结",
+        "同志"
+      ],
+      "themes": [
+        "个人与集体"
+      ],
+      "article_types": [
+        "群众与社会",
+        "作风与伦理"
+      ],
+      "applicable_questions": [
+        "家庭冲突",
+        "团队关系",
+        "个人选择"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "个人成长发生在社会关系和共同劳动中；集体目标不能抹去个人尊严、具体处境和合理边界。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0028-p0273-001",
+        "pdf-0027-p0036-001",
+        "pdf-0027-p0378-001",
+        "pdf-0027-p0134-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-011",
+      "title": "社会结构与利益",
+      "core_proposition": "分析社会问题要考察群体处境、资源分配、制度激励和利益关系，不能把结构性压力只归咎于个人品质。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "阶级",
+        "利益",
+        "社会",
+        "制度",
+        "群众"
+      ],
+      "themes": [
+        "社会结构与利益"
+      ],
+      "article_types": [
+        "群众与社会",
+        "经济与劳动",
+        "政权与制度"
+      ],
+      "applicable_questions": [
+        "青年焦虑",
+        "就业竞争",
+        "社会不平等"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "分析社会问题要考察群体处境、资源分配、制度激励和利益关系，不能把结构性压力只归咎于个人品质。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0056-001",
+        "pdf-0028-p0043-001",
+        "pdf-0027-p0055-001",
+        "pdf-0027-p0354-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-012",
+      "title": "革命与变革",
+      "core_proposition": "社会变革需要分析条件、力量、阶段和组织，不能把愿望当作现实；当代应用只转译为合法、非暴力的改革与公共参与。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "革命",
+        "条件",
+        "力量",
+        "阶段"
+      ],
+      "themes": [
+        "革命与变革"
+      ],
+      "article_types": [
+        "革命与变革",
+        "群众与社会"
+      ],
+      "applicable_questions": [
+        "制度改革",
+        "公共参与",
+        "社会倡议"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "社会变革需要分析条件、力量、阶段和组织，不能把愿望当作现实；当代应用只转译为合法、非暴力的改革与公共参与。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0361-001",
+        "pdf-0020-p0284-001",
+        "pdf-0027-p0163-001",
+        "pdf-0026-p0090-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-013",
+      "title": "军事与战略",
+      "core_proposition": "战略上保持长期判断，战术上严肃对待具体困难，集中有限资源解决关键环节；军事内容在个人辅导中只作方法类比。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "战略",
+        "战术",
+        "集中",
+        "力量",
+        "敌人"
+      ],
+      "themes": [
+        "军事与战略"
+      ],
+      "article_types": [
+        "军事与战略"
+      ],
+      "applicable_questions": [
+        "长期规划",
+        "资源配置",
+        "应对挫折"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "战略上保持长期判断，战术上严肃对待具体困难，集中有限资源解决关键环节；军事内容在个人辅导中只作方法类比。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0010-p0383-001",
+        "pdf-0012-p0012-001",
+        "pdf-0027-p0401-001",
+        "pdf-0010-p0390-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-014",
+      "title": "政权与制度",
+      "core_proposition": "制度和权力结构影响资源、责任和行动空间；相关历史论断必须放回其政治条件中分析，不能直接移作当代指令。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "政权",
+        "国家",
+        "制度",
+        "民主",
+        "人民"
+      ],
+      "themes": [
+        "政权与制度"
+      ],
+      "article_types": [
+        "政权与制度"
+      ],
+      "applicable_questions": [
+        "公共治理",
+        "制度评价",
+        "公民责任"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "制度和权力结构影响资源、责任和行动空间；相关历史论断必须放回其政治条件中分析，不能直接移作当代指令。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0056-001",
+        "pdf-0026-p0121-001",
+        "pdf-0011-p0300-001",
+        "pdf-0015-p0262-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-015",
+      "title": "国际关系",
+      "core_proposition": "独立判断、自力更生与争取外部合作并不矛盾；对国际问题要区分内部根据、外部条件和具体利益。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "国际",
+        "独立",
+        "自力更生",
+        "合作",
+        "国家"
+      ],
+      "themes": [
+        "国际关系"
+      ],
+      "article_types": [
+        "国际关系"
+      ],
+      "applicable_questions": [
+        "国际观察",
+        "个人发展",
+        "合作选择"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "独立判断、自力更生与争取外部合作并不矛盾；对国际问题要区分内部根据、外部条件和具体利益。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0056-001",
+        "pdf-0021-p0119-001",
+        "pdf-0017-p0146-001",
+        "pdf-0028-p0381-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-016",
+      "title": "历史与发展",
+      "core_proposition": "事物发展有过程、阶段和不平衡，评价一种现象既要看形成条件，也要看变化方向和可能的转化。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "历史",
+        "发展",
+        "阶段",
+        "过程",
+        "条件"
+      ],
+      "themes": [
+        "历史与发展"
+      ],
+      "article_types": [
+        "哲学与认识论",
+        "革命与变革"
+      ],
+      "applicable_questions": [
+        "人生阶段",
+        "社会趋势",
+        "长期判断"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "事物发展有过程、阶段和不平衡，评价一种现象既要看形成条件，也要看变化方向和可能的转化。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0012-p0289-002",
+        "pdf-0011-p0089-001",
+        "pdf-0027-p0358-001",
+        "pdf-0027-p0373-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-017",
+      "title": "失败、挫折和坚持",
+      "core_proposition": "失败既可能暴露方法错误，也可能反映条件和力量暂时不足；应先复盘原因，再决定坚持、调整或退出。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "失败",
+        "困难",
+        "错误",
+        "经验",
+        "成功"
+      ],
+      "themes": [
+        "失败、挫折和坚持"
+      ],
+      "article_types": [
+        "哲学与认识论",
+        "作风与伦理"
+      ],
+      "applicable_questions": [
+        "考试失败",
+        "求职受挫",
+        "长期目标"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "失败既可能暴露方法错误，也可能反映条件和力量暂时不足；应先复盘原因，再决定坚持、调整或退出。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0446-001",
+        "pdf-0011-p0138-001",
+        "pdf-0027-p0133-001",
+        "pdf-0027-p0432-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    },
+    {
+      "thought_id": "thought-018",
+      "title": "青年成长和社会责任",
+      "core_proposition": "青年应在真实学习、劳动和社会实践中形成能力与责任感；责任不能被解释为无限牺牲或忽视身心健康。",
+      "reasoning_chain": [
+        "从具体事实和历史条件出发",
+        "识别主要关系与可迁移方法",
+        "形成判断并回到现实行动检验"
+      ],
+      "keywords": [
+        "青年",
+        "学生",
+        "学习",
+        "劳动",
+        "责任"
+      ],
+      "themes": [
+        "青年成长和社会责任"
+      ],
+      "article_types": [
+        "学习与教育",
+        "群众与社会"
+      ],
+      "applicable_questions": [
+        "青年焦虑",
+        "人生方向",
+        "社会责任"
+      ],
+      "historical_context": "需结合所引篇章的写作时间、对象和政治社会条件逐条核定。",
+      "transferable_method": "青年应在真实学习、劳动和社会实践中形成能力与责任感；责任不能被解释为无限牺牲或忽视身心健康。",
+      "period_bound_claims": "原文中的战争、革命组织和特定政治任务不得直接转换为今天的个人行动命令。",
+      "modern_translation": "将该方法转化为事实调查、问题排序、合法非暴力行动、阶段复盘和必要的专业求助。",
+      "limitations": "不能替代医学、法律、财务或危机干预；不能忽略当代制度、技术和个人权利条件。",
+      "counterpoints": "审核时补充与该命题形成张力的不同时期文本、现代研究或反例。",
+      "source_passages": [
+        "pdf-0027-p0089-001",
+        "pdf-0026-p0469-001",
+        "pdf-0027-p0174-001",
+        "pdf-0027-p0462-001"
+      ],
+      "period": "跨时期，需按来源分别说明",
+      "confidence": 0.55,
+      "review_status": "approved",
+      "quote_status": "unverified",
+      "notes": "核心命题为预设字典初稿；代表段落为自动检索候选，需人工核对原页。",
+      "approval_note": "Approved directly by the user; source passages remain quote-unverified until page-level verification."
+    }
+  ],
+  "relations": [
+    {
+      "from": "thought-001",
+      "type": "supports",
+      "to": "thought-002",
+      "status": "draft"
+    },
+    {
+      "from": "thought-002",
+      "type": "supports",
+      "to": "thought-003",
+      "status": "draft"
+    },
+    {
+      "from": "thought-003",
+      "type": "applies_to",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-004",
+      "type": "supports",
+      "to": "thought-005",
+      "status": "draft"
+    },
+    {
+      "from": "thought-006",
+      "type": "depends_on",
+      "to": "thought-001",
+      "status": "draft"
+    },
+    {
+      "from": "thought-008",
+      "type": "depends_on",
+      "to": "thought-002",
+      "status": "draft"
+    },
+    {
+      "from": "thought-009",
+      "type": "supports",
+      "to": "thought-005",
+      "status": "draft"
+    },
+    {
+      "from": "thought-011",
+      "type": "depends_on",
+      "to": "thought-007",
+      "status": "draft"
+    },
+    {
+      "from": "thought-012",
+      "type": "context_bound_by",
+      "to": "thought-014",
+      "status": "draft"
+    },
+    {
+      "from": "thought-013",
+      "type": "applies_to",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-015",
+      "type": "depends_on",
+      "to": "thought-014",
+      "status": "draft"
+    },
+    {
+      "from": "thought-016",
+      "type": "supports",
+      "to": "thought-017",
+      "status": "draft"
+    },
+    {
+      "from": "thought-017",
+      "type": "applies_to",
+      "to": "thought-018",
+      "status": "draft"
+    },
+    {
+      "from": "thought-018",
+      "type": "depends_on",
+      "to": "thought-001",
+      "status": "draft"
+    }
+  ]
+}

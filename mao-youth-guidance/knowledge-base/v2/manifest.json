@@ -1,0 +1,17 @@
+{
+  "schema": "mao-youth-guidance/knowledge-base.v2",
+  "version": "v2",
+  "source_version": "v1",
+  "generated_at": "2026-09-10T01:01:39.643645+00:00",
+  "status": "active",
+  "total_passages": 24181,
+  "quote_verified": 1765,
+  "paraphrase_only": 6120,
+  "blocked": 16296,
+  "unverified": 0,
+  "verified_quotes": 5319,
+  "approved_cards": 18,
+  "concept_relations": 14,
+  "verification_policy": "conservative dual extraction plus render sanity; reliable passages only",
+  "manual_visual_review": false
+}

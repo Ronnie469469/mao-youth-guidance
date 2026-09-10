@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Confirmed PDF mapping",
+  "type": "object",
+  "required": ["schema", "items"],
+  "properties": {
+    "schema": {"const": "mao-youth-guidance/pdf-mapping.v1"},
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["pdf_id", "filename", "status"],
+        "properties": {
+          "pdf_id": {"type": "string"},
+          "filename": {"type": "string"},
+          "work": {"type": ["string", "null"]},
+          "volume": {"type": ["string", "null"]},
+          "date_range": {"type": ["string", "null"]},
+          "edition": {"type": ["string", "null"]},
+          "page_offset": {"type": "integer"},
+          "status": {"enum": ["confirmed", "unmapped", "disputed"]}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "mao-youth-guidance/passage-verification-report.v2",
+  "generated_at": "2026-09-10T01:01:42.137490+00:00",
+  "ok": true,
+  "errors": [],
+  "total_passages": 24181,
+  "status_counts": {
+    "blocked": 16296,
+    "paraphrase_only": 6120,
+    "quote_verified": 1765
+  },
+  "reason_code_counts": {
+    "independent_text_mismatch": 8512,
+    "high_character_noise": 7462,
+    "too_short_for_reliable_quote": 5058,
+    "independent_agreement": 1765,
+    "partial_independent_agreement": 902,
+    "render_missing_or_blank": 322,
+    "front_matter_or_reference_material": 94,
+    "table_of_contents": 65,
+    "page_number_or_date_only": 1
+  },
+  "verified_quotes": 5319,
+  "blocked_exported": 16296,
+  "approved_cards": 18,
+  "cards_with_quotes": 18,
+  "manual_visual_review": false,
+  "verification_note": "quote_verified means two independent PDF text extractors agreed and a cached page render was nonblank; it does not claim human visual review of every rendered page."
+}

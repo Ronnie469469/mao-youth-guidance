@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mao Youth Guidance"
+  short_description: "毛泽东思想知识库驱动的青年与社会问题辅导"
+  default_prompt: "使用 $mao-youth-guidance 先拆解我的问题，再依据已核验文本分析，并用尽量贴近毛泽东论证节奏的当代仿写语气给出行动与心理指导。"
+policy:
+  allow_implicit_invocation: false

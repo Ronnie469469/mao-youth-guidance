@@ -1,0 +1,301 @@
+{
+  "schema": "mao-youth-guidance/corpus-report.v1",
+  "pdf_count": 41,
+  "mapping_states": {
+    "confirmed": 41
+  },
+  "extraction_states": {
+    "text_extracted": 33,
+    "ocr_required": 8
+  },
+  "passage_count": 24181,
+  "files": [
+    {
+      "pdf_id": "pdf-0001",
+      "filename": "01.pdf",
+      "pages": 170,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0002",
+      "filename": "01210801.pdf",
+      "pages": 281,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0003",
+      "filename": "01210802.pdf",
+      "pages": 275,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0004",
+      "filename": "01210803.pdf",
+      "pages": 359,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0005",
+      "filename": "01210804.pdf",
+      "pages": 360,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0006",
+      "filename": "01210806.pdf",
+      "pages": 317,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0007",
+      "filename": "01210809.pdf",
+      "pages": 30,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0008",
+      "filename": "02.pdf",
+      "pages": 266,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0009",
+      "filename": "03.pdf",
+      "pages": 370,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0010",
+      "filename": "04.pdf",
+      "pages": 402,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0011",
+      "filename": "05.pdf",
+      "pages": 342,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0012",
+      "filename": "06.pdf",
+      "pages": 362,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0013",
+      "filename": "07.pdf",
+      "pages": 334,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0014",
+      "filename": "08.pdf",
+      "pages": 358,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0015",
+      "filename": "09.pdf",
+      "pages": 350,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0016",
+      "filename": "1-01.pdf",
+      "pages": 322,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0017",
+      "filename": "1-02.pdf",
+      "pages": 322,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0018",
+      "filename": "1-03.pdf",
+      "pages": 326,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0019",
+      "filename": "1-04.pdf",
+      "pages": 310,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0020",
+      "filename": "1-05.pdf",
+      "pages": 334,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0021",
+      "filename": "1-06.pdf",
+      "pages": 310,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0022",
+      "filename": "1-07.pdf",
+      "pages": 296,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0023",
+      "filename": "1-08.pdf",
+      "pages": 316,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0024",
+      "filename": "1-09.pdf",
+      "pages": 398,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0025",
+      "filename": "10.pdf",
+      "pages": 366,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0026",
+      "filename": "20200712e.pdf",
+      "pages": 579,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0027",
+      "filename": "20201007f.pdf",
+      "pages": 525,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0028",
+      "filename": "20201007g.pdf",
+      "pages": 481,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0029",
+      "filename": "c01.pdf",
+      "pages": 827,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0030",
+      "filename": "c02.pdf",
+      "pages": 713,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0031",
+      "filename": "c03.pdf",
+      "pages": 734,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0032",
+      "filename": "c04.pdf",
+      "pages": 678,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0033",
+      "filename": "c05 (1).pdf",
+      "pages": 605,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0034",
+      "filename": "c06.pdf",
+      "pages": 702,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0035",
+      "filename": "c07 (1).pdf",
+      "pages": 702,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0036",
+      "filename": "c08 (1).pdf",
+      "pages": 671,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0037",
+      "filename": "c09.pdf",
+      "pages": 651,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0038",
+      "filename": "c10.pdf",
+      "pages": 494,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0039",
+      "filename": "c11.pdf",
+      "pages": 525,
+      "mapping_status": "confirmed",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "pdf_id": "pdf-0040",
+      "filename": "c12.pdf",
+      "pages": 650,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    },
+    {
+      "pdf_id": "pdf-0041",
+      "filename": "c13.pdf",
+      "pages": 569,
+      "mapping_status": "confirmed",
+      "extraction_status": "ocr_required"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "mao-youth-guidance/manual-sample-review.v1",
+  "reviewed_at": "2026-09-10",
+  "scope": "representative samples only; not a manual review of all rendered pages",
+  "samples": [
+    {
+      "pdf_id": "pdf-0027",
+      "filename": "20201007f.pdf",
+      "pdf_page": 87,
+      "printed_page_observed": 73,
+      "quote_ids": ["quote-002558"],
+      "status": "passed",
+      "note": "Page is legible and the organization/leadership quotation is visibly present."
+    },
+    {
+      "pdf_id": "pdf-0027",
+      "filename": "20201007f.pdf",
+      "pdf_page": 385,
+      "printed_page_observed": 371,
+      "quote_ids": ["quote-003616", "quote-003617"],
+      "status": "passed",
+      "note": "Page is legible and the strategic concentration passage is visibly present."
+    },
+    {
+      "pdf_id": "pdf-0027",
+      "filename": "20201007f.pdf",
+      "pdf_page": 446,
+      "printed_page_observed": 432,
+      "quote_ids": ["quote-003828", "quote-003830", "quote-003831"],
+      "status": "passed",
+      "note": "Page is legible and the practice/knowledge passage is visibly present."
+    }
+  ],
+  "page_offset_observation": "The three samples show printed_page = pdf_page - 14. Citations continue to use explicit PDF page numbers until the offset is confirmed for the full volume."
+}
