@@ -1,4 +1,5 @@
-一个显式调用的 Codex Skill：使用经过预处理和核验的毛泽东文本知识库，分析青年困惑与当代社会问题，并给出具体行动、心理支持和安全边界提示。
+# mao-youth-guidance
+
 > 把经典文本转化为今天可以使用的问题分析工具。
 
 `mao-youth-guidance` 是一个面向 Codex 的显式调用 Skill。它以用户提供并经过预处理、分类、核验的毛泽东相关文本为基础，用来分析青年困惑、学习压力、就业问题、家庭冲突、个人选择和当代社会现象。
@@ -18,10 +19,8 @@ Skill 路径：mao-youth-guidance
 
 安装完成后重启 Codex。
 
-## 直接使用
 ### 方法二：手动安装
 
-安装 Skill 后显式调用：
 把仓库中的整个 `mao-youth-guidance/` 文件夹复制到：
 
 ```text
@@ -59,20 +58,15 @@ $mao-youth-guidance
 如何看待现在社会的大学生就业问题？
 ```
 
-Skill 默认使用 `knowledge-base/v2/`，不会在运行时重新从 PDF 提炼思想。正式逐字引用只来自 `verified-quotes.jsonl`；未核验内容只能转述，阻断内容不会进入检索。
 该 Skill 默认只允许显式调用，不会自动介入无关对话。
 
-默认回答采用当代仿写语气，借鉴毛泽东文章的问题分析节奏和语言气质，但会明确标注为当代仿写，不冒充本人，不伪造原文。也可以要求现代方法论风格或学术解释风格。
 ## 核心特点
 
-## 安装
 ### 1. 先拆解问题，再正式回答
 
-在 Codex 中安装本仓库的 Skill 路径：
 面对复杂问题，Skill 会先展示：
 
 ```text
-$skill-installer
 我对这个问题的理解：
 - 主题领域：
 - 问题方向：
@@ -85,7 +79,6 @@ $skill-installer
 - 推荐思想板块：
 ```
 
-或者将 `mao-youth-guidance/` 目录复制到：
 用户可以回复“开始分析”，也可以修改分类。信息不足时，Skill 会渐进式追问，最多五问，重点确认发生了什么、困惑从何而来、已经尝试过什么、最大限制是什么，以及希望得到评价、方案还是鼓励。
 
 ### 2. 不在运行时重新提炼思想
@@ -131,23 +124,13 @@ Skill 默认尽量接近毛泽东文章的论证节奏和语言气质，但模�
 正式分析会标注：
 
 ```text
-C:\Users\<用户名>\.codex\skills\mao-youth-guidance
 表达说明：以下为当代仿写，借鉴毛泽东文章的论证方式与语言气质；引号内文字才是已核验原文。
 ```
 
-复制后重启 Codex。
 Skill 不会冒充毛泽东本人，不会编写“毛泽东新语录”，也不会把生成内容放进原文引号。自伤、医疗、法律和财务问题始终使用直接现代语言。
 
-## 仓库内容
 ## 适用问题
 
-- `mao-youth-guidance/`：Skill 入口、参考规则、处理脚本和随 Skill 分发的 `knowledge-base/v2/`。
-- `knowledge-base/v2/`：18 张已审核思想卡片、概念关系、段落索引、可靠引文和阻断段落。
-- `mao-corpus/raw/`：用户提供的原始 PDF，保持不修改，用于追溯和重新处理。
-- `mao-corpus/index/`、`normalized/`、`metadata/`、`qa/`：页级文本、元数据、核验结果和报告。
-- `knowledge-base/v1/`：旧版本知识库，保留用于回滚和比较。
-- `review/`：PDF 映射、思想卡片审核记录和核验报告。
-- `tests/`：核验规则和知识库一致性测试。
 - “我考研失败，不知道要不要继续。”
 - “年轻人为什么越来越焦虑？”
 - “怎么看待就业竞争和躺平？”
@@ -157,10 +140,8 @@ Skill 不会冒充毛泽东本人，不会编写“毛泽东新语录”，也�
 
 社会与政治问题可以进行有依据的分析、比较不同立场并表达明确判断；行动建议必须合法、非暴力、可验证。
 
-页面渲染 PNG 和 Python 缓存没有提交，因为它们可以从 PDF 和索引重新生成。
 ## 安全边界
 
-## 本地验证
 以下情况不会套用文学化仿写：
 
 - 自伤、自杀或伤害他人的风险；
@@ -238,16 +219,14 @@ mao-youth-guidance/
 ```powershell
 $env:PYTHONUTF8 = "1"
 
-python C:\Users\<用户名>\.codex\skills\.system\skill-creator\scripts\quick_validate.py .\mao-youth-guidance
-python .\mao-youth-guidance\scripts\verify_passages.py .\knowledge-base\v2\thought-cards.json .\knowledge-base\v2\passages.jsonl .\knowledge-base\v2\verified-quotes.jsonl
 python <CODEX_HOME>\.codex\skills\.system\skill-creator\scripts\quick_validate.py .\mao-youth-guidance
 python .\mao-youth-guidance\scripts\verify_passages.py `
   .\knowledge-base\v2\thought-cards.json `
   .\knowledge-base\v2\passages.jsonl `
   .\knowledge-base\v2\verified-quotes.jsonl
 python -m pytest -q .\tests\test_verification_pipeline.py
+```
 
-## 运行边界
 如果更换 PDF、OCR 工具或映射，应按照 `inspect → identify → extract/OCR → normalize → build index → verify → rebuild` 的顺序重建；原始 PDF 不应被修改。
 
 ## 项目状态
@@ -259,5 +238,4 @@ python -m pytest -q .\tests\test_verification_pipeline.py
 - 原文策略：可靠段落逐字引用，其余只转述或跳过
 - GitHub：<https://github.com/Ronnie469469/mao-youth-guidance>
 
-社会和政治问题可以进行有依据的分析与观点比较，但行动建议必须合法、非暴力。自伤或他伤、医疗、法律、财务和危险动员问题优先使用直接现代语言并进行必要的专业分流。
 欢迎提交 Issue，反馈分类误判、引用定位问题、知识库缺口或表达风格建议。新增核心思想卡片必须保留出处并经过单独审核，不会因为一次用户反馈就自动改写核心知识库。
